@@ -10,6 +10,6 @@ Estagiário de desenvolvimento de software na empresa [qintess](https://www.link
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsfelix&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsfelix&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsfelix&&show_icons=true&layout=compact&theme=tokyonight)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexsandro-felix-8203b1190/)](https://www.linkedin.com/in/alexsandro-felix-8203b1190/)
