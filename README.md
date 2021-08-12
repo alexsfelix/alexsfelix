@@ -5,7 +5,7 @@ Meu nome é Alexsandro, tenho 28 anos sou casado e tenho uma linda filha
 🎓
 Graduando em análise e desenvolvimento de sistemas 4° semestre  
 ![working-at-home](https://user-images.githubusercontent.com/57048111/110192729-ace0fd00-7e0e-11eb-91a9-b1711a887aff.png)
-Software Engineer Associate Accenture [accenture](https://www.linkedin.com/company/accenturebrasil/)
+Software Engineer Associate [Accenture](https://www.linkedin.com/company/accenturebrasil/)
 <br/>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsfelix&show_icons=true&theme=tokyonight)  
