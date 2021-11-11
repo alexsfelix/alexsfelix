@@ -1,9 +1,9 @@
 <h2 align="center"> Olá 👋🏼, seja bem vindo(a)!</h2>  </p>
 
 ![family](https://user-images.githubusercontent.com/57048111/110192250-98e7cc00-7e0b-11eb-8ead-824a700a598d.png)
-Meu nome é Alexsandro, tenho 28 anos sou casado e tenho uma linda filha  
+Meu nome é Alexsandro, tenho 29 anos.
 🎓
-Graduando em análise e desenvolvimento de sistemas 4° semestre  
+Graduando em análise e desenvolvimento de sistemas 5° semestre  
 ![working-at-home](https://user-images.githubusercontent.com/57048111/110192729-ace0fd00-7e0e-11eb-91a9-b1711a887aff.png)
 Software Engineer Associate [Accenture](https://www.linkedin.com/company/accenturebrasil/)
 <br/>
