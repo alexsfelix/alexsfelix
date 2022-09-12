@@ -1,11 +1,14 @@
 <h2 align="center"> Olá 👋🏼, seja bem vindo(a)!</h2>  </p>
 
-![family](https://user-images.githubusercontent.com/57048111/110192250-98e7cc00-7e0b-11eb-8ead-824a700a598d.png)
 Meu nome é Alexsandro, tenho 29 anos.  
+
 🎓
-Graduando em análise e desenvolvimento de sistemas 5° semestre  
-![working-at-home](https://user-images.githubusercontent.com/57048111/110192729-ace0fd00-7e0e-11eb-91a9-b1711a887aff.png)
-Software Engineer Associate [Accenture](https://www.linkedin.com/company/accenturebrasil/)
+Formação:  
+Análise e Desenvolvimento de Sistemas [UNINOVE](https://www.uninove.br)  
+Processos Gerenciais [UNINOVE](https://www.uninove.br)  
+
+![working-at-home](https://user-images.githubusercontent.com/57048111/110192729-ace0fd00-7e0e-11eb-91a9-b1711a887aff.png) Trabalho:  
+Desenvolvedor de Aplicações Java na [IBM](https://www.linkedin.com/company/ibm)
 <br/>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsfelix&show_icons=true&theme=tokyonight)  
